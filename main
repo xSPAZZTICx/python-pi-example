@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 def main(msg):
+    //Adding different comment
     print(msg)
 
 
